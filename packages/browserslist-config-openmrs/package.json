@@ -1,0 +1,26 @@
+{
+  "name": "browserslist-config-openmrs",
+  "version": "1.0.0",
+  "description": "A browserslist config for openmrs",
+  "main": "src/browserslist-config-openmrs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanopyTax/browserslist-config-canopy.git"
+  },
+  "keywords": [
+    "browserslist",
+    "openmrs"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CanopyTax/browserslist-config-canopy/issues"
+  },
+  "homepage": "https://github.com/CanopyTax/browserslist-config-canopy#readme",
+  "devDependencies": {
+    "browserslist": "^4.6.3",
+    "jest": "^24.8.0"
+  }
+}
